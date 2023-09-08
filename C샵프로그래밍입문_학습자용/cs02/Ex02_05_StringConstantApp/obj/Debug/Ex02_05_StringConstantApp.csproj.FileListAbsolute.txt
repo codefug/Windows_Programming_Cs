@@ -1,0 +1,7 @@
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.exe.config
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.exe
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.pdb
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\Ex02_05_StringConstantApp.csproj.AssemblyReference.cache
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\Ex02_05_StringConstantApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.exe
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.pdb

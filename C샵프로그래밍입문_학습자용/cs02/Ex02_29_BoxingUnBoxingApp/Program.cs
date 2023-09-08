@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BoxingUnBoxingApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int foo = 526;
+            object bar = foo;          // foo is boxed to bar.
+            Console.WriteLine(bar);
+            try
+            {
+                double d = (short)bar;
+                //같은 타입으로 해야 오류가 없다. (int) d = (int) bar;
+                Console.WriteLine(d);
+            }
+            catch (InvalidCastException e)
+            {
+                Console.WriteLine(e + "Error");
+            }
+        }
+    }
+}

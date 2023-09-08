@@ -1,0 +1,7 @@
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\bin\Debug\NullableTypeApp.exe.config
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\bin\Debug\NullableTypeApp.exe
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\bin\Debug\NullableTypeApp.pdb
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\obj\Debug\Ex02_30_NullableTypeApp.csproj.AssemblyReference.cache
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\obj\Debug\Ex02_30_NullableTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\obj\Debug\NullableTypeApp.exe
+C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_30_NullableTypeApp\obj\Debug\NullableTypeApp.pdb
