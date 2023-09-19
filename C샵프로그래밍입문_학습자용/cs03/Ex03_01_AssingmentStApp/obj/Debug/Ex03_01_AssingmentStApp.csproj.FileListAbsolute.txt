@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\bin\Debug\AssingmentStApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\bin\Debug\AssingmentStApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\bin\Debug\AssingmentStApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\obj\Debug\Ex03_01_AssingmentStApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\obj\Debug\Ex03_01_AssingmentStApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\obj\Debug\AssingmentStApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs03\Ex03_01_AssingmentStApp\obj\Debug\AssingmentStApp.pdb

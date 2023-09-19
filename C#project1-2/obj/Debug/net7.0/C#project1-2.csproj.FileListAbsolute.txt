@@ -1,0 +1,14 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\bin\Debug\net7.0\C#project1-2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\bin\Debug\net7.0\C#project1-2.deps.json
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\bin\Debug\net7.0\C#project1-2.runtimeconfig.json
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\bin\Debug\net7.0\C#project1-2.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\bin\Debug\net7.0\C#project1-2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.AssemblyInfoInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.AssemblyInfo.cs
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\refint\C#project1-2.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\C#project1-2.genruntimeconfig.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C#project1-2\obj\Debug\net7.0\ref\C#project1-2.dll

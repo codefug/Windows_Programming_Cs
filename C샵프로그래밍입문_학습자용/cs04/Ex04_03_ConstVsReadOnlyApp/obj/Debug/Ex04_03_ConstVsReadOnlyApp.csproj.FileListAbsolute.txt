@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\obj\Debug\Ex04_03_ConstVsReadOnlyApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\obj\Debug\Ex04_03_ConstVsReadOnlyApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_03_ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.pdb

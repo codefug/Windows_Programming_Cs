@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace FractionApp
 {
-    class Fraction
+    class Fraction //internal 생략
     {
+        // 생략하면 private
         int numerator;                              // 분자 필드
         int denominator;                            // 분모 필드
         public Fraction(int num, int denom) {       // 생성자
