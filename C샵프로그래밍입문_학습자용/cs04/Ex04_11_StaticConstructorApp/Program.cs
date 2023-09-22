@@ -10,7 +10,7 @@ namespace StaticConstructorApp
     {
 	    static int staticWithInitializer = 100;
 	    static int staticWithNoInitializer;
-	    StaticConstructor() 
+	    static StaticConstructor()
 	    {  // 매개변수와 접근 수정자를 가질 수 없다.
 	    	staticWithNoInitializer = staticWithInitializer + 100;
 	    }

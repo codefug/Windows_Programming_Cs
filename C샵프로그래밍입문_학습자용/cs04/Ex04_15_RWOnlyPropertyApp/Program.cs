@@ -33,7 +33,7 @@ namespace RWOnlyPropertyApp
         {
             RWOnlyProperty obj = new RWOnlyProperty();
             obj.WriteOnlyProperty = obj.ReadOnlyProperty;
-            Console.WriteLine("value = " + obj.writeOnlyField); // Compile Error
+            //Console.WriteLine("value = " + obj.writeOnlyField); // Compile Error
         }
     }
 }

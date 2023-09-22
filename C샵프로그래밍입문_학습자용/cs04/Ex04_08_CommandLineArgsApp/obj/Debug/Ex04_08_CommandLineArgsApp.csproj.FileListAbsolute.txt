@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\bin\Debug\CommandLineArgsApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\bin\Debug\CommandLineArgsApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\bin\Debug\CommandLineArgsApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\obj\Debug\Ex04_08_CommandLineArgsApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\obj\Debug\Ex04_08_CommandLineArgsApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\obj\Debug\CommandLineArgsApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_08_CommandLineArgsApp\obj\Debug\CommandLineArgsApp.pdb

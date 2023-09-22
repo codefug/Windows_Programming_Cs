@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\bin\Debug\PropertyWithoutFieldApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\bin\Debug\PropertyWithoutFieldApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\bin\Debug\PropertyWithoutFieldApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\obj\Debug\Ex04_16_PropertyWithoutFieldApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\obj\Debug\Ex04_16_PropertyWithoutFieldApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\obj\Debug\PropertyWithoutFieldApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_16_PropertyWithoutFieldApp\obj\Debug\PropertyWithoutFieldApp.pdb

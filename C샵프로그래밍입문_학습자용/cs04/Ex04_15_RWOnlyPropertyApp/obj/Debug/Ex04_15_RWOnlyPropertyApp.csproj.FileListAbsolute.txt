@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\bin\Debug\RWOnlyPropertyApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\bin\Debug\RWOnlyPropertyApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\bin\Debug\RWOnlyPropertyApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\obj\Debug\Ex04_15_RWOnlyPropertyApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\obj\Debug\Ex04_15_RWOnlyPropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\obj\Debug\RWOnlyPropertyApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs04\Ex04_15_RWOnlyPropertyApp\obj\Debug\RWOnlyPropertyApp.pdb

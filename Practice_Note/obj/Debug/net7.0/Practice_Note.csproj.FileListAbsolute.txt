@@ -1,0 +1,14 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\bin\Debug\net7.0\Practice_Note.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\bin\Debug\net7.0\Practice_Note.deps.json
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\bin\Debug\net7.0\Practice_Note.runtimeconfig.json
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\bin\Debug\net7.0\Practice_Note.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\bin\Debug\net7.0\Practice_Note.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.AssemblyInfoInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.AssemblyInfo.cs
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\refint\Practice_Note.dll
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\Practice_Note.genruntimeconfig.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Practice_Note\obj\Debug\net7.0\ref\Practice_Note.dll
