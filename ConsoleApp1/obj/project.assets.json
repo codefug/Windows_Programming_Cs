@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lsh\\.nuget\\packages\\": {}
+    "C:\\Users\\robot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lsh\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\lsh\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\lsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lsh\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
