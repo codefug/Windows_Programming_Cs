@@ -9,7 +9,7 @@ namespace PropertyApp
     class PropertyClass
     {
         private int privateValue;
-        public int PrivateValue
+        public int Accessprivatevalue
         {
             get { return privateValue; }  // get-accessor
             set { privateValue = value; }  // set-accessor
@@ -25,9 +25,9 @@ namespace PropertyApp
         {
             int n;
             PropertyClass obj = new PropertyClass();
-            obj.PrivateValue = 100;       // invoke set-accessor
+            obj.Accessprivatevalue = 100;       // invoke set-accessor
             obj.PrintValue();
-            n = obj.PrivateValue;         // invoke get-accessor
+            n = obj.Accessprivatevalue;         // invoke get-accessor
             Console.WriteLine("       Value = " + n);
         }
     }

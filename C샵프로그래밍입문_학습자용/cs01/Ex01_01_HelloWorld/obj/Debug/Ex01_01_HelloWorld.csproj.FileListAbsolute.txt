@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\obj\Debug\Ex01_01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\obj\Debug\Ex01_01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_01_HelloWorld\obj\Debug\HelloWorld.pdb

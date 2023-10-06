@@ -13,8 +13,9 @@ namespace HiddenNameApp
     }
     class DerivedClass : BaseClass
     {
-        new int a = 3;
+        new int a = 3; // if removing new, error occur
         new double b = 4.5;
+        // which means they don't use the a, b of the parent class
         public void Output()
         {
             Console.WriteLine("BaseClass : a={0}, DerivedClass:a={1}",

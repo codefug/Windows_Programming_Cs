@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\bin\Debug\AddendumApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\bin\Debug\AddendumApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\bin\Debug\AddendumApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\obj\Debug\Ex05_07_AddendumApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\obj\Debug\Ex05_07_AddendumApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\obj\Debug\AddendumApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_07_AddendumApp\obj\Debug\AddendumApp.pdb

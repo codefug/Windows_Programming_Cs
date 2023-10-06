@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\bin\Debug\ThreadApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\bin\Debug\ThreadApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\bin\Debug\ThreadApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\obj\Debug\Ex01_09_ThreadApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\obj\Debug\Ex01_09_ThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\obj\Debug\ThreadApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs01\Ex01_09_ThreadApp\obj\Debug\ThreadApp.pdb

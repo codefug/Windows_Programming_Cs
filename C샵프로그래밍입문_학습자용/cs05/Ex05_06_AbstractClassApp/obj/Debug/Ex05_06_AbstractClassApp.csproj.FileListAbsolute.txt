@@ -1,0 +1,7 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\bin\Debug\AbstractClassApp.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\bin\Debug\AbstractClassApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\bin\Debug\AbstractClassApp.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\obj\Debug\Ex05_06_AbstractClassApp.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\obj\Debug\Ex05_06_AbstractClassApp.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\obj\Debug\AbstractClassApp.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs05\Ex05_06_AbstractClassApp\obj\Debug\AbstractClassApp.pdb

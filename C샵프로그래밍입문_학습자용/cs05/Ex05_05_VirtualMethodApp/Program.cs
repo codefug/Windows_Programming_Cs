@@ -41,6 +41,7 @@ namespace VirtualMethodApp
         static void Main(string[] args)
         {
             BaseClass s = new DerivedClass();
+            // only override works if the parent class type is assigned to variable which refer to Derived class.
             s.MethodA();
             s.MethodB();
             s.MethodC();
