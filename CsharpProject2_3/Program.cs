@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Drawing;
 
-namespace CsharpProject2_3 // Note: actual namespace depends on the project name.
+namespace CsharpProject2_3
 {
     class Vector
     {
         private int[] v;
         public int size;
+        // size는 할당받은 인덱서의 크기
         public Vector(int a)
         {
             v = new int[a];
@@ -19,7 +20,7 @@ namespace CsharpProject2_3 // Note: actual namespace depends on the project name
         }
         public static Vector operator ++(Vector v)
         {
-            for (int i=0;i<v.;i++)
+            for (int i=0;i<v.size;i++)
             {
                 v[i] += 1;
             }
@@ -46,19 +47,19 @@ namespace CsharpProject2_3 // Note: actual namespace depends on the project name
             Console.WriteLine("초기화된 인덱서");
             for (int i = 0; i < 5; i++)
             {
-                Console.Write(a[i]);
+                Console.Write(a[i]+" ");
             }
             a++;
             Console.WriteLine("\na++ 이후의 인덱서");
             for (int i = 0; i < 5; i++)
             {
-                Console.Write(a[i]);
+                Console.Write(a[i]+" ");
             }
             a--;
             Console.WriteLine("\na-- 이후의 인덱서");
             for (int i = 0; i < 5; i++)
             {
-                Console.Write(a[i]);
+                Console.Write(a[i]+" ");
             }
 
         }

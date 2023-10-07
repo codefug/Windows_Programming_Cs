@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CsharpProject2_2 // Note: actual namespace depends on the project name.
+namespace CsharpProject2_2
 {
     class Complex
     {
@@ -85,11 +85,17 @@ namespace CsharpProject2_2 // Note: actual namespace depends on the project name
         {
             Complex a= new Complex(2,3);
             Complex b= new Complex(1,2);
+            Console.WriteLine("a");
             Console.WriteLine(a);
+            Console.WriteLine("b");
             Console.WriteLine(b);
+            Console.WriteLine("a + b");
             Console.WriteLine(a + b);
+            Console.WriteLine("a - b");
             Console.WriteLine(a - b);
+            Console.WriteLine("a * b");
             Console.WriteLine(a * b);
+            Console.WriteLine("a / b");
             Console.WriteLine(a / b);
         }
     }

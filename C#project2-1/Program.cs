@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Numerics;
 
-namespace CsharpProject2_1// Note: actual namespace depends on the project name.
+namespace CsharpProject2_1
 {
     class Fraction
     {
@@ -85,11 +85,17 @@ namespace CsharpProject2_1// Note: actual namespace depends on the project name.
         {
             Fraction first = new Fraction(1,-2);
             Fraction second =new Fraction(-1,-3);
+            Console.WriteLine("first");
             Console.WriteLine(first.ToString());
+            Console.WriteLine("second");
             Console.WriteLine(second);
+            Console.WriteLine("first+second");
             Console.WriteLine(first+second);
+            Console.WriteLine("first-second");
             Console.WriteLine(first-second);
+            Console.WriteLine("first*second");
             Console.WriteLine(first*second);
+            Console.WriteLine("first/second");
             Console.WriteLine(first/second);
         }
     }
