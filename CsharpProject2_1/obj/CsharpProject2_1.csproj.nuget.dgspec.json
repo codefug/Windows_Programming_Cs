@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#Project2-1\\CsharpProject2_1.csproj": {}
+    "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#project2-1\\CsharpProject2_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#Project2-1\\CsharpProject2_1.csproj": {
+    "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#project2-1\\CsharpProject2_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#Project2-1\\CsharpProject2_1.csproj",
+        "projectUniqueName": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#project2-1\\CsharpProject2_1.csproj",
         "projectName": "CsharpProject2_1",
-        "projectPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#Project2-1\\CsharpProject2_1.csproj",
+        "projectPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#project2-1\\CsharpProject2_1.csproj",
         "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#Project2-1\\obj\\",
+        "outputPath": "C:\\Users\\robot\\Documents\\GitHub\\Windows_Programming_Cs\\C#project2-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
