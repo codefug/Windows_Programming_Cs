@@ -5,3 +5,10 @@ C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_Strin
 C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\Ex02_05_StringConstantApp.csproj.CoreCompileInputs.cache
 C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.exe
 C:\Users\robot\Desktop\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.exe.config
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\bin\Debug\StringConstantApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\Ex02_05_StringConstantApp.csproj.AssemblyReference.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\Ex02_05_StringConstantApp.csproj.CoreCompileInputs.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_05_StringConstantApp\obj\Debug\StringConstantApp.pdb

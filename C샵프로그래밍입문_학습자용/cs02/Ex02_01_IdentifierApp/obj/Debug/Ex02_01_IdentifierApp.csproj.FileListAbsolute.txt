@@ -1,0 +1,7 @@
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\bin\Debug\IdentifierApp.exe.config
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\bin\Debug\IdentifierApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\bin\Debug\IdentifierApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\obj\Debug\Ex02_01_IdentifierApp.csproj.AssemblyReference.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\obj\Debug\Ex02_01_IdentifierApp.csproj.CoreCompileInputs.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\obj\Debug\IdentifierApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_01_IdentifierApp\obj\Debug\IdentifierApp.pdb
