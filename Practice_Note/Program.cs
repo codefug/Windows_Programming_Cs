@@ -1,15 +1,25 @@
 ﻿using System;
 
-delegate even Getevenup (even e);
-class even
+delegate Even evendelegate (Even e);
+class Even
 {
     int evenNumber;
-    public static even operator++(even e)
+    public Even(int evenNumber)
+    {
+        this.evenNumber = evenNumber;
+    }
+
+    public static Even operator++(Even e)
     {
         e.evenNumber += 2;
         return e;
     }
-    public even Getevenup(even e)
+    public static Even operator--(Even e)
+    {
+        e.evenNumber -= 2;
+        return e;
+    }
+    public Even Getevenup(Even e)
     {
         e.evenNumber += 1;
         return e;
@@ -22,9 +32,9 @@ namespace Practice_Note // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            even Fake = new even();
-            Getevenup fk = new Getevenup(Fake.Getevenup);
-            fk(Fake);
+            Even main = new Even(1);
+            evendelegate fk = new evendelegate(main.Getevenup);
+            Console.Write(fk(main));
         }
     }
 }
