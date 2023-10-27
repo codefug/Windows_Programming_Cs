@@ -1,0 +1,7 @@
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\bin\Debug\TypeOfOperatorApp.exe.config
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\bin\Debug\TypeOfOperatorApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\bin\Debug\TypeOfOperatorApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\obj\Debug\Ex02_26_TypeOfOperatorApp.csproj.AssemblyReference.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\obj\Debug\Ex02_26_TypeOfOperatorApp.csproj.CoreCompileInputs.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\obj\Debug\TypeOfOperatorApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs02\Ex02_26_TypeOfOperatorApp\obj\Debug\TypeOfOperatorApp.pdb
