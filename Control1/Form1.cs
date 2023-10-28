@@ -144,7 +144,7 @@ EventArgs e)
         {
             if (textBox4.Text != "")
             {
-                listBox1.Items.Add(textBox1.Text);
+                listBox1.Items.Add(textBox4.Text);
             }
         }
         private void Button7_Click(object sender,
@@ -153,23 +153,49 @@ EventArgs e)
             if (listBox1.SelectedIndex > -1)
                 listBox1.Items.RemoveAt(listBox1.SelectedIndex);
         }
-        private void button1_Click(object sender,
+        private void button8_Click(object sender,
         EventArgs e)
         {
-            if (listBox1.SelectedItem != null)
+            if (listBox2.SelectedItem != null)
             {
-                comboBox1.Items.Add(listBox1.SelectedItem);
-                listBox1.Items.Remove(listBox1.SelectedItem);
+                comboBox1.Items.Add(listBox2.SelectedItem);
+                listBox2.Items.Remove(listBox2.SelectedItem);
             }
         }
-        private void button2_Click(object sender,
+        private void button9_Click(object sender,
         EventArgs e)
         {
             if (comboBox1.SelectedItem != null)
             {
-                listBox1.Items.Add(comboBox1.SelectedItem);
+                listBox2.Items.Add(comboBox1.SelectedItem);
                 comboBox1.Items.Remove(comboBox1.SelectedItem);
             }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button10_Click(object sender, EventArgs e)
+        {
+            string strTemp = "";
+            foreach (object obj in checkedListBox1.CheckedItems)
+            {
+                strTemp += obj.ToString();
+                strTemp += " ";
+            }
+            MessageBox.Show("당신의 취미는 " +strTemp + "입니다.");
         }
     }
 }
