@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\bin\Debug\Csharp-project2.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\bin\Debug\Csharp-project2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\bin\Debug\Csharp-project2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp-project2.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp_project2.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp-project2.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp-project2.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp-project2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp-project2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Csharp-project2\obj\Debug\Csharp_project2.Form1.resources

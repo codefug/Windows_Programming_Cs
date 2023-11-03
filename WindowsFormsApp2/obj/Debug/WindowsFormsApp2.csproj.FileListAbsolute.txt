@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
