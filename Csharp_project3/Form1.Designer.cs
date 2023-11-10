@@ -34,8 +34,11 @@
             this.파일ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.새로만들기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.닫기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.배경색변경ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.폰트변경ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.편집ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.보기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.도움말HToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -46,14 +49,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.도움말HToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.배경색변경ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.폰트변경ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.listView1 = new System.Windows.Forms.ListView();
             this.listView2 = new System.Windows.Forms.ListView();
+            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -71,9 +70,9 @@
             this.편집ToolStripMenuItem,
             this.보기ToolStripMenuItem,
             this.도움말HToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Location = new System.Drawing.Point(0, 30);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(942, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(942, 30);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -100,6 +99,21 @@
             this.닫기ToolStripMenuItem.Name = "닫기ToolStripMenuItem";
             this.닫기ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.닫기ToolStripMenuItem.Text = "닫기(&X)";
+            this.닫기ToolStripMenuItem.Click += new System.EventHandler(this.닫기ToolStripMenuItem_Click);
+            // 
+            // 배경색변경ToolStripMenuItem
+            // 
+            this.배경색변경ToolStripMenuItem.Name = "배경색변경ToolStripMenuItem";
+            this.배경색변경ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.배경색변경ToolStripMenuItem.Text = "배경색 변경";
+            this.배경색변경ToolStripMenuItem.Click += new System.EventHandler(this.배경색변경ToolStripMenuItem_Click);
+            // 
+            // 폰트변경ToolStripMenuItem
+            // 
+            this.폰트변경ToolStripMenuItem.Name = "폰트변경ToolStripMenuItem";
+            this.폰트변경ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.폰트변경ToolStripMenuItem.Text = "폰트 변경";
+            this.폰트변경ToolStripMenuItem.Click += new System.EventHandler(this.폰트변경ToolStripMenuItem_Click);
             // 
             // 편집ToolStripMenuItem
             // 
@@ -113,6 +127,12 @@
             this.보기ToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
             this.보기ToolStripMenuItem.Text = "보기";
             // 
+            // 도움말HToolStripMenuItem
+            // 
+            this.도움말HToolStripMenuItem.Name = "도움말HToolStripMenuItem";
+            this.도움말HToolStripMenuItem.Size = new System.Drawing.Size(89, 24);
+            this.도움말HToolStripMenuItem.Text = "도움말(&H)";
+            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(419, 355);
@@ -125,12 +145,13 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(843, 406);
+            this.button2.Location = new System.Drawing.Point(843, 385);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 3;
             this.button2.Text = "Close";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -145,7 +166,7 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(419, 86);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(249, 25);
+            this.textBox1.Size = new System.Drawing.Size(337, 25);
             this.textBox1.TabIndex = 6;
             // 
             // button4
@@ -202,41 +223,9 @@
             this.label5.TabIndex = 15;
             this.label5.Text = "Choose the gredient that you want to use in your food and Click Selet Button.";
             // 
-            // 도움말HToolStripMenuItem
+            // fontDialog1
             // 
-            this.도움말HToolStripMenuItem.Name = "도움말HToolStripMenuItem";
-            this.도움말HToolStripMenuItem.Size = new System.Drawing.Size(89, 24);
-            this.도움말HToolStripMenuItem.Text = "도움말(&H)";
-            // 
-            // 배경색변경ToolStripMenuItem
-            // 
-            this.배경색변경ToolStripMenuItem.Name = "배경색변경ToolStripMenuItem";
-            this.배경색변경ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.배경색변경ToolStripMenuItem.Text = "배경색 변경";
-            // 
-            // 폰트변경ToolStripMenuItem
-            // 
-            this.폰트변경ToolStripMenuItem.Name = "폰트변경ToolStripMenuItem";
-            this.폰트변경ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.폰트변경ToolStripMenuItem.Text = "폰트 변경";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(674, 84);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(82, 25);
-            this.textBox2.TabIndex = 16;
-            // 
-            // listView1
-            // 
-            this.listView1.Activation = System.Windows.Forms.ItemActivation.OneClick;
-            this.listView1.HideSelection = false;
-            this.listView1.HoverSelection = true;
-            this.listView1.Location = new System.Drawing.Point(419, 128);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(499, 197);
-            this.listView1.TabIndex = 17;
-            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.fontDialog1.ShowColor = true;
             // 
             // listView2
             // 
@@ -249,15 +238,22 @@
             this.listView2.TabIndex = 18;
             this.listView2.UseCompatibleStateImageBehavior = false;
             // 
+            // menuStrip2
+            // 
+            this.menuStrip2.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip2.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip2.Name = "menuStrip2";
+            this.menuStrip2.Size = new System.Drawing.Size(942, 30);
+            this.menuStrip2.TabIndex = 19;
+            this.menuStrip2.Text = "menuStrip2";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(942, 450);
+            this.ClientSize = new System.Drawing.Size(942, 417);
             this.Controls.Add(this.listView2);
-            this.Controls.Add(this.listView1);
-            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -269,6 +265,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.menuStrip1);
+            this.Controls.Add(this.menuStrip2);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "RecipeApp";
@@ -303,9 +300,8 @@
         private System.Windows.Forms.ToolStripMenuItem 폰트변경ToolStripMenuItem;
         private System.Windows.Forms.FontDialog fontDialog1;
         private System.Windows.Forms.ColorDialog colorDialog1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.ListView listView2;
+        private System.Windows.Forms.MenuStrip menuStrip2;
     }
 }
 
