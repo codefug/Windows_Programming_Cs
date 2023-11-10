@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\bin\Debug\timer1.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\bin\Debug\timer1.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\bin\Debug\timer1.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\timer1\obj\Debug\timer1.pdb

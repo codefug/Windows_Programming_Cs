@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\bin\Debug\Control2.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\bin\Debug\Control2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\bin\Debug\Control2.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.Form1.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Control2\obj\Debug\Control2.pdb

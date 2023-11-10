@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\bin\Debug\TreeNode1.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\bin\Debug\TreeNode1.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\bin\Debug\TreeNode1.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.Form1.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\TreeNode1\obj\Debug\TreeNode1.pdb
