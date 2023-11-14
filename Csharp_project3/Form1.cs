@@ -91,6 +91,7 @@ namespace Csharp_project3
             if (textBox1.Text != "" && textBox1.Text != "Please put keywords")
             {
                 checkedListBox1.Items.Add(textBox1.Text);
+                textBox1.Text = ""; 
             }
             else
             {
