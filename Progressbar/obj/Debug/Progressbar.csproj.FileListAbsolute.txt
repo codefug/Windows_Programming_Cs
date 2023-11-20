@@ -1,0 +1,10 @@
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\bin\Debug\Progressbar.exe.config
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\bin\Debug\Progressbar.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\bin\Debug\Progressbar.pdb
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.Form1.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.Properties.Resources.resources
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.csproj.GenerateResource.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.exe
+C:\Users\robot\Documents\GitHub\Windows_Programming_Cs\Progressbar\obj\Debug\Progressbar.pdb
