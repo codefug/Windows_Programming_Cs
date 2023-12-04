@@ -33,9 +33,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(102, 118);
+            this.button1.Location = new System.Drawing.Point(117, 148);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(88, 32);
+            this.button1.Size = new System.Drawing.Size(101, 40);
             this.button1.TabIndex = 0;
             this.button1.Text = "Button";
             this.button1.UseVisualStyleBackColor = true;
@@ -43,12 +44,15 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 266);
+            this.ClientSize = new System.Drawing.Size(334, 332);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "KeyEventApp";
+            this.DoubleClick += new System.EventHandler(this.form1DoubleClick);
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1MouseUp);
             this.ResumeLayout(false);
 
         }

@@ -19,6 +19,29 @@ namespace Ex10_09_KeyEventApp
 
         public int xPt, yPt;
         public static readonly int MOVE = 10;
+        public int x, y,nx,ny;
+        public bool isDoubleClick;
+        private void Form1MouseUp(object sender, MouseEventArgs e)
+        {
+            if (isDoubleClick)
+            {
+                nx = e.X; ny = e.Y;
+                if (nx > x) { nx += x;}
+                Rectangle r = new Rectangle(x, y, nx - x, ny - y);
+            }
+            else
+            {
+                return;
+            }
+        }
+
+        private void form1DoubleClick(object sender, EventArgs e)
+        {
+            isDoubleClick = true;
+            x = MousePosition.X;
+            y = MousePosition.Y;
+        }
+
         private void button1_KeyUp(object sender, KeyEventArgs e)
         {
             this.xPt = this.button1.Location.X;

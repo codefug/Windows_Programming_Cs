@@ -35,28 +35,30 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 16);
+            this.label1.Location = new System.Drawing.Point(18, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 12);
+            this.label1.Size = new System.Drawing.Size(67, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "비밀번호";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(16, 64);
+            this.textBox1.Location = new System.Drawing.Point(18, 80);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.textBox1.Name = "textBox1";
             this.textBox1.PasswordChar = '*';
-            this.textBox1.Size = new System.Drawing.Size(224, 21);
+            this.textBox1.Size = new System.Drawing.Size(255, 25);
             this.textBox1.TabIndex = 1;
             this.textBox1.Enter += new System.EventHandler(this.textBox1_Enter);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(256, 136);
+            this.ClientSize = new System.Drawing.Size(293, 170);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "FocusEventApp";
             this.ResumeLayout(false);
