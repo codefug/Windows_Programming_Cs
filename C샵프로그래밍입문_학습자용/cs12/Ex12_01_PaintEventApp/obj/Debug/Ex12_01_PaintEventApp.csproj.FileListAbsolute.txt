@@ -1,0 +1,10 @@
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\bin\Debug\Ex12_01_PaintEventApp.exe.config
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\bin\Debug\Ex12_01_PaintEventApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\bin\Debug\Ex12_01_PaintEventApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.csproj.AssemblyReference.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.Form1.resources
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.Properties.Resources.resources
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.csproj.GenerateResource.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.csproj.CoreCompileInputs.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_01_PaintEventApp\obj\Debug\Ex12_01_PaintEventApp.pdb

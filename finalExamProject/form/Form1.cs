@@ -27,5 +27,16 @@ namespace form
             MessageBox.Show(GetStartDateTime().ToString());
         }
 
+        private void label7_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            form.ShowDialog();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            form.Show();
+        }
     }
 }

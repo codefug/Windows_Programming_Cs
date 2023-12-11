@@ -1,0 +1,7 @@
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\bin\Debug\Ex12_05_RectangleMethodApp.exe.config
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\bin\Debug\Ex12_05_RectangleMethodApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\bin\Debug\Ex12_05_RectangleMethodApp.pdb
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\obj\Debug\Ex12_05_RectangleMethodApp.csproj.AssemblyReference.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\obj\Debug\Ex12_05_RectangleMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\obj\Debug\Ex12_05_RectangleMethodApp.exe
+C:\Users\lsh\Documents\GitHub\Windows_Programming_Cs\C샵프로그래밍입문_학습자용\cs12\Ex12_05_RectangleMethodApp\obj\Debug\Ex12_05_RectangleMethodApp.pdb
